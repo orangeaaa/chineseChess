@@ -1,0 +1,20 @@
+.board {
+    width: 500px;
+    height: 512px;
+    border-left: 90px;
+    margin-inline: auto;
+    position: relative;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.name {
+    width:464px;
+    margin-inline: auto;
+    font-size: large;
+    color: red;
+    text-align: center;
+}
